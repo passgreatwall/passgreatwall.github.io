@@ -1,4 +1,4 @@
-# 科学上网 | 1月28日21.3M/S|免费SSR节点/Shadowrocket节点/Singbox节点/V2ray节点/Clash节点节点推荐，在线Clash机场梯子购买推荐  更新时间 2026-01-28 10:45:50
+# 科学上网 | 2月11日22M/S|免费Clash节点/Singbox节点/V2ray节点/Shadowrocket节点/SSR节点节点推荐，在线Clash机场梯子购买推荐  更新时间 2026-02-11 11:33:56
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://passgreatwall.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://passgreatwall.github.io/uploads/2026/01/0-20260128.yaml
-- https://passgreatwall.github.io/uploads/2026/01/1-20260128.yaml
-- https://passgreatwall.github.io/uploads/2026/01/2-20260128.yaml
-- https://passgreatwall.github.io/uploads/2026/01/3-20260128.yaml
-- https://passgreatwall.github.io/uploads/2026/01/4-20260128.yaml
+- https://passgreatwall.github.io/uploads/2026/02/0-20260211.yaml
+- https://passgreatwall.github.io/uploads/2026/02/1-20260211.yaml
+- https://passgreatwall.github.io/uploads/2026/02/2-20260211.yaml
+- https://passgreatwall.github.io/uploads/2026/02/3-20260211.yaml
+- https://passgreatwall.github.io/uploads/2026/02/4-20260211.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://passgreatwall.github.io/uploads/2026/01/0-20260128.txt
-- https://passgreatwall.github.io/uploads/2026/01/1-20260128.txt
-- https://passgreatwall.github.io/uploads/2026/01/2-20260128.txt
-- https://passgreatwall.github.io/uploads/2026/01/3-20260128.txt
-- https://passgreatwall.github.io/uploads/2026/01/4-20260128.txt
+- https://passgreatwall.github.io/uploads/2026/02/0-20260211.txt
+- https://passgreatwall.github.io/uploads/2026/02/1-20260211.txt
+- https://passgreatwall.github.io/uploads/2026/02/2-20260211.txt
+- https://passgreatwall.github.io/uploads/2026/02/3-20260211.txt
+- https://passgreatwall.github.io/uploads/2026/02/4-20260211.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://passgreatwall.github.io/uploads/2026/01/20260128.json
+- https://passgreatwall.github.io/uploads/2026/02/20260211.json
 
 ## 更多Clash节点订阅 ：
 
